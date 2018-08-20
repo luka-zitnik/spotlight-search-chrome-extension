@@ -1,0 +1,17 @@
+{
+  "name": "spotlight-search-chrome-extension",
+  "private": true,
+  "description": "Development environment for Spotlight Search, the Chrome extension",
+  "scripts": {
+    "build": "browserify src-content.js -o content.js",
+    "watch": "watchify src-content.js -o content.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.2.0",
+    "watchify": "^3.11.0"
+  },
+  "dependencies": {
+    "range-lookup": "^0.2.0"
+  }
+}
