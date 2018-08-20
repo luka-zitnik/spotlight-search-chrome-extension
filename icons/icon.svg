@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="icon.svg">
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/Users/luka/sources/spotlight-search-chrome-extension/icons/icon16.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12">
   <defs
      id="defs2">
     <clipPath
@@ -33,11 +36,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.1875"
-     inkscape:cx="64"
-     inkscape:cy="72.960589"
+     inkscape:zoom="4.3752232"
+     inkscape:cx="59.007273"
+     inkscape:cy="46.797118"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,7 +84,7 @@
            height="109.41414"
            x="10.666667"
            y="10.181818" /></flowRegion><flowPara
-         id="flowPara4572"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4572" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4574"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -91,20 +94,20 @@
            height="110.06061"
            x="10.989899"
            y="8.5656567" /></flowRegion><flowPara
-         id="flowPara4580"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4580" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4582"
-       style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5d5a5a;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:21.3333336px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5d5a5a;fill-opacity:1;stroke:none;"
        transform="matrix(0.26458333,0,0,0.26458333,0.44906881,262.47204)"
        clip-path="url(#clipPath4599)"><flowRegion
          id="flowRegion4584"
-         style="font-size:5.33333349px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1;"><rect
+         style="font-size:21.3333336px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1;"><rect
            id="rect4586"
-           width="167.35384"
-           height="139.39963"
-           x="-15.596259"
-           y="6.2164879"
-           style="font-size:5.33333349px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1;" /></flowRegion><flowPara
+           width="194.09534"
+           height="172.08369"
+           x="-16.053379"
+           y="-0.18318568"
+           style="font-size:21.33333397px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4588">Lorem ipsum dolor sit amet, consectetur adipiscingzelit. Mauris ac eleifend arcu. Vestibulum consequat nisi dui, id pretium nulla dignissim sed. Pellentesque feugiat est eu condimentum commodo. Phasellus blandit est at cursus consequat. Sed ultrices porttitor sem, sit amet molestie nisl feugiat eget. Suspendisse aliquam ipsum vitae ex viverra, quis consectetur nulla fringilla. Nullam congue quam turpis, eu egestas odio rutrum in. In sollicitudin justo posuere elit consequat, et maximus arcu dictum. Duis convallis lacinia volutpat.vLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac eleifend arcu. Vestibulum consequat nisi dui, id pretium nulla dignissim sed. Pellentesque feugiat est eu condimentum commodo. Phasellus blandit est at cursus consequat. Sed ultrices porttitor sem, sit amet molestie nisl feugiat eget. Suspendisse aliquam ipsum vitae ex viverra, quis consectetur nulla fringilla. Nullam congue quam turpis, eu egestas odio rutrum in. In sollicitudin justo posuere elit consequat, et maximus arcu dictum. Duis convallis lacinia volutpat.</flowPara></flowRoot>    <path
        style="fill:#000000;fill-opacity:0.52450979;stroke-width:0.99999994"
        mask="none"
