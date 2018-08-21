@@ -54,7 +54,7 @@ const revealRange = (range) => {
 
     selectRange(range);
     closestElement(range.commonAncestorContainer).scrollIntoView({
-        behavior: 'instant', block: 'center', inline: 'center'
+        behavior: 'smooth', block: 'center', inline: 'center'
     });
     setTimeout(() => {
         // After scroll has run to completion...
