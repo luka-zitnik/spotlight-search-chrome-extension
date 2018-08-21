@@ -71,8 +71,9 @@ const lightsOff = () => {
     if (document.getElementById(nameOfTheDark) === null) {
         const dark = document.createElement('div');
         dark.id = nameOfTheDark;
-        dark.style.width = document.body.clientWidth + 'px';
-        dark.style.height = document.body.clientHeight + 'px';
+        dark.style.width = document.body.scrollWidth + 'px';
+        dark.style.height = document.body.scrollHeight + 'px';
+        console.log(`width: ${dark.style.width}, height: ${dark.style.height}`)
         const spotlight = document.createElement('div');
         spotlight.id = nameOfTheSpotlight;
         dark.appendChild(spotlight);
