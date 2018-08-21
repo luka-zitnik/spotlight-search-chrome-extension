@@ -2,9 +2,10 @@
 
 Helps with spotting search matches on pages with too many details
 
+Press `Ctrl+Shift+F` to open/close.
+
 ## Todo
 
-- Better looking icons (blue, yellow, white)
 - Animated gif
 - Package
 

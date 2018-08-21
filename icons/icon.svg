@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/Users/luka/sources/spotlight-search-chrome-extension/icons/icon16.png"
-   inkscape:export-xdpi="12"
-   inkscape:export-ydpi="12">
+   inkscape:export-filename="/Users/luka/sources/spotlight-search-chrome-extension/icons/icon128.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <clipPath
@@ -30,13 +30,46 @@
          id="path4601"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath950">
+      <circle
+         mask="none"
+         style="opacity:1;fill:#31c2ff;fill-opacity:1;stroke-width:0.2493277"
+         id="circle952"
+         cx="16.933332"
+         cy="280.06665"
+         r="13.229167" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath960">
+      <circle
+         mask="none"
+         style="opacity:1;fill:#31c2ff;fill-opacity:1;stroke-width:0.2493277"
+         id="circle962"
+         cx="16.933332"
+         cy="280.06665"
+         r="13.229167" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath966">
+      <circle
+         mask="none"
+         style="opacity:1;fill:#31c2ff;fill-opacity:1;stroke-width:0.2493277"
+         id="circle968"
+         cx="16.933332"
+         cy="280.06665"
+         r="13.229167" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.3752232"
      inkscape:cx="59.007273"
@@ -94,26 +127,47 @@
            height="110.06061"
            x="10.989899"
            y="8.5656567" /></flowRegion><flowPara
-         id="flowPara4580" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4582"
-       style="font-style:normal;font-weight:normal;font-size:21.3333336px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5d5a5a;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,0.44906881,262.47204)"
-       clip-path="url(#clipPath4599)"><flowRegion
-         id="flowRegion4584"
-         style="font-size:21.3333336px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1;"><rect
-           id="rect4586"
-           width="194.09534"
-           height="172.08369"
-           x="-16.053379"
-           y="-0.18318568"
-           style="font-size:21.33333397px;text-align:start;text-anchor:start;fill:#5d5a5a;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4588">Lorem ipsum dolor sit amet, consectetur adipiscingzelit. Mauris ac eleifend arcu. Vestibulum consequat nisi dui, id pretium nulla dignissim sed. Pellentesque feugiat est eu condimentum commodo. Phasellus blandit est at cursus consequat. Sed ultrices porttitor sem, sit amet molestie nisl feugiat eget. Suspendisse aliquam ipsum vitae ex viverra, quis consectetur nulla fringilla. Nullam congue quam turpis, eu egestas odio rutrum in. In sollicitudin justo posuere elit consequat, et maximus arcu dictum. Duis convallis lacinia volutpat.vLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac eleifend arcu. Vestibulum consequat nisi dui, id pretium nulla dignissim sed. Pellentesque feugiat est eu condimentum commodo. Phasellus blandit est at cursus consequat. Sed ultrices porttitor sem, sit amet molestie nisl feugiat eget. Suspendisse aliquam ipsum vitae ex viverra, quis consectetur nulla fringilla. Nullam congue quam turpis, eu egestas odio rutrum in. In sollicitudin justo posuere elit consequat, et maximus arcu dictum. Duis convallis lacinia volutpat.</flowPara></flowRoot>    <path
-       style="fill:#000000;fill-opacity:0.52450979;stroke-width:0.99999994"
-       mask="none"
-       clip-path="none"
-       d="M 0 0 L 0 128 L 128 128 L 128 0 L 0 0 z M 64 19 A 45 45 0 0 1 109 64 A 45 45 0 0 1 64 109 A 45 45 0 0 1 19 64 A 45 45 0 0 1 64 19 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,263.13332)"
-       id="rect4608" />
+         id="flowPara4580" /></flowRoot>    <path
+       style="fill:#fff57a;fill-opacity:1;stroke:none;stroke-width:0.27764308px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 33.804467,263.19552 9.3733312,271.19915 26.028818,288.11044 Z"
+       id="path868"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g860"
+       transform="translate(-3.5074401,3.7493325)">
+      <circle
+         r="13.229167"
+         cy="280.06665"
+         cx="16.933332"
+         id="path854"
+         style="opacity:1;fill:#31c2ff;fill-opacity:1;stroke-width:0.2493277"
+         mask="none" />
+      <rect
+         y="271.17798"
+         x="1.8150576"
+         height="3.6283863"
+         width="30.236551"
+         id="rect836"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         mask="none"
+         clip-path="url(#clipPath950)" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="rect838"
+         width="30.236551"
+         height="3.6283863"
+         x="1.8150576"
+         y="278.04169"
+         clip-path="url(#clipPath960)" />
+      <rect
+         y="284.9054"
+         x="1.8150576"
+         height="3.6283863"
+         width="21.528423"
+         id="rect840"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.22325565"
+         clip-path="url(#clipPath966)" />
+    </g>
   </g>
 </svg>
