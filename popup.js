@@ -21,10 +21,16 @@ chrome.runtime.onMessage.addListener((message) => {
         default:
             break;
     }
-})
+});
 
 input.addEventListener('change', (e) => {
     input.setCustomValidity('');
-})
+});
+
+input.addEventListener('keydown', (e) => {
+    if (e.code == 'Escape') {
+        window.close();
+    }
+});
 
 chrome.runtime.connect();

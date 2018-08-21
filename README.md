@@ -2,7 +2,7 @@
 
 Helps with spotting search matches on pages with too many details
 
-Press `Ctrl+Shift+F` to open/close.
+Press `Ctrl+Shift+F` to open/close (assign another shortcut with chrome://extensions/shortcuts). Alternatively, press `Esc` to close.
 
 ## Todo
 
