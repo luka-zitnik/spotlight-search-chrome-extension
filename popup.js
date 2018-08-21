@@ -13,4 +13,18 @@ form.addEventListener('submit', (e) => {
     });
 });
 
+chrome.runtime.onMessage.addListener((message) => {
+    switch (message) {
+        case 'SPOTLIGHT_SEARCH_ERROR':
+            input.setCustomValidity('Search error');
+            break;
+        default:
+            break;
+    }
+})
+
+input.addEventListener('change', (e) => {
+    input.setCustomValidity('');
+})
+
 chrome.runtime.connect();

@@ -11,10 +11,13 @@
                 outline-width: 2px;
                 font-size: 20px;
             }
+            input:invalid {
+                outline-color: red;
+            }
         </style>
     </head>
     <body>
-        <form>
+        <form novalidate>
             <input type="search" autofocus />
         </form>
         <script src="popup.js"></script>

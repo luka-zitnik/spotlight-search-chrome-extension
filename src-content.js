@@ -42,7 +42,16 @@ const closestElement = (node) => {
     return node;
 };
 
+const error = () => {
+    chrome.runtime.sendMessage('SPOTLIGHT_SEARCH_ERROR');
+}
+
 const revealRange = (range) => {
+    if (range instanceof Range == false) {
+        error();
+        return;
+    }
+
     selectRange(range);
     closestElement(range.commonAncestorContainer).scrollIntoView({
         behavior: 'instant', block: 'center', inline: 'center'
@@ -78,8 +87,8 @@ const lightsOn = () => {
     }
 };
 
-const handleCommand = (searchCriteria) => {
-    switch (searchCriteria.command) {
+const handleCommand = (message) => {
+    switch (message.command) {
         case 'lights_off':
             lightsOff();
             break;
@@ -88,7 +97,7 @@ const handleCommand = (searchCriteria) => {
             break;
         case 'search':
             matches = makeCircularIterator(
-                rangeLookup(searchCriteria.value, {ignoreCase: true})
+                rangeLookup(message.value, {ignoreCase: true})
                     .filter(r => (r.getBoundingClientRect().width !== 0))
             );
             revealRange(matches.next().value);
